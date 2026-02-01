@@ -1,0 +1,9 @@
+# Large dataset files
+IMDB Dataset.csv
+
+# Model files (can be regenerated)
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
